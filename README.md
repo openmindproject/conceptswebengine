@@ -1,5 +1,10 @@
-# conceptswebengine
-An free/libre/opensource software project to provide an Engine for www/html Interactive Presentations of Concepts Database/Knowledgebase for businesses, individuals, groups, etc.
+# Concepts Web Engine
+A free/libre/opensource software project to provide an Engine for www/html Interactive Presentations of Concepts Database/Knowledgebase for businesses, individuals, groups, etc.
+
+## Project status
+Inception
+
+## Notes on implementation
 
 ```
 branch master_java:
